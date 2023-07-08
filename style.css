@@ -89,3 +89,20 @@ span {
 .show-answer .arrow-up  {
     display: inline;
 }
+
+
+/* responsive */
+
+@media  (max-width: 500px) {
+    .container {
+      max-width: 300px;
+    }
+
+    .question {
+        width: 400px;
+    }
+
+    .question-content {
+        width: 400px;
+    }
+}
