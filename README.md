@@ -12,7 +12,6 @@ Technologies Used
 HTML: Used for creating the structure and layout of the project.
 CSS: Used for styling the user interface and making it visually appealing.
 JavaScript: Used for handling user interactions, managing data, and implementing search functionality.
-Usage.
 
 
 
